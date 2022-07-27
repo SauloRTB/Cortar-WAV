@@ -6,9 +6,9 @@ import os
 import glob
 
 
-busca1 = os.getcwd() + r"\*.wav"
+busca1 = os.getcwd() + r"//*.wav"
 arquivowav = glob.glob(busca1)
-busca2 = os.getcwd() + r"\*.txt"
+busca2 = os.getcwd() + r"//*.txt"
 arquivotxt = glob.glob(busca2)
 
 
