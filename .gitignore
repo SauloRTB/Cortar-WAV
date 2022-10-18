@@ -1,0 +1,17 @@
+
+html/
+recortes/
+pdf/
+venv/
+.DS_Store
+.Rproj.user
+.~lock.dicionario.csv\#
+teste.py
+pendencias-arquivos.txt
+pendencias-campos.txt
+README.pdf
+orw-20220709-jtb-cow-preposicoes.wav
+orw-20220708-jtb-cow-verbos.wav
+orw-20220708-jtb-cow-verbos.txt
+recortes/.mp3
+recortes/.txt
